@@ -11,3 +11,5 @@ Ways to verify python has been installed or not.
 1) using cmd prmpt
    python --version 
 3) edit the system variable --> environment variables
+
+video link:https://bit.ly/39oVzwb
