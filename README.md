@@ -12,4 +12,4 @@ Ways to verify python has been installed or not.
    python --version 
 3) edit the system variable --> environment variables
 
-video link:https://bit.ly/39oVzwb
+video link:https://bit.ly/3rZ37Mv
